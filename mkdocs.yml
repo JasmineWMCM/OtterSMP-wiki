@@ -29,5 +29,5 @@ extra:
 copyright: Copyright &copy; 2024 Mobcraft
 
 nav:
-  - Guide: 'guide.md'
+  - Guide: 'index.md'
   - Protocol: 'protocol.md'
