@@ -104,7 +104,7 @@ Verbal warn: Tell them to stop such an action as it is not allowed and will resu
 
 ___
 
-## 🔰 **INNAPROPRIATE TALK**
+## 🔰 **INAPROPRIATE TALK**
 
 Engaging in discussions about inappropriate topics, issuing threats, or participating in any behavior that promotes or poses a threat of harm to oneself or others is strictly prohibited. This includes using sexual words, encouraging suicide, talking about hurting oneself, and making serious threats to other players. This doesn't require a warning but, if you feel a warn is necessary, please warn. Sr.Mods+ have the freedom to set the punishment duration as they see fit.
 
