@@ -1,0 +1,39 @@
+site_name: OtterSMP
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: blue
+  logo: assets/ottersmp-logo-ip.png
+  favicon: assets/logo.png
+  features:
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - navigation.tabs
+    - header.autohide
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/ottersmp
+
+copyright: Copyright &copy; 2024 OtterSMP
+
+nav:
+  - Home:
+    - Home: index.md
+  - Items:
+    - Star Shards: Items/star_shards.md
+    - Currency: Items/currency.md
+  - NPC's:
+    - Jazmine: NPCs/Jazmine.md
+    - Annie the Blacksmith: NPCs/Annie the Blacksmith.md
