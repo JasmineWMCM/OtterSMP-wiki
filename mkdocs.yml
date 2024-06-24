@@ -3,10 +3,9 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: indigo
+    primary: green
     accent: blue
-  logo: assets/ottersmp-logo-ip.png
-  favicon: assets/logo.png
+  logo: assets/otter_1240x.png
   features:
     - navigation.sections
     - navigation.path
@@ -25,6 +24,9 @@ extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/ottersmp
+
+extra_css:
+  - stylesheets/extra.css
 
 copyright: Copyright &copy; 2024 OtterSMP
 
