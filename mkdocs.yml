@@ -3,8 +3,8 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: green
-    accent: blue
+    primary: custom
+    accent: custom
   logo: assets/otter_1240x.png
   features:
     - navigation.sections
