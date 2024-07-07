@@ -1,4 +1,4 @@
-The Starfox is a foxy vendor found inside the server spawn. Items within the Starfox are bought with [Star Shards](../items/star_shards.md).
+The Starfox is a foxy vendor found inside the server spawn. Items within the Starfox are bought with [Star Shards](../items/starshards.md).
 ## Inventory Changes
 
 The Starfox's inventory periodically changes with new updates. Below are listed changes of the Starfox's inventory.

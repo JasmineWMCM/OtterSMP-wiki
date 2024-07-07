@@ -2,7 +2,7 @@ Currency are items/virtual numbers that are within OtterSMP that are commonly us
 ## Money
 Money is a form of currency used on almost every vendor in the game as well as for peer to peer trading. Some questlines in the game may require the player to have a certain amount of money. It can be earned in many ways, like selling items to the shop for example.
 ## Star Shards
-[Star Shards](items/star_shards.md) are a currency used on the vendor known as the [Starfox](vendors/Starfox.md). They are a very sought after commodity on the server due to the many rare items and cosmetics you are able to buy with them.
+[Star Shards](items/starshards.md) are a currency used on the vendor known as the [Starfox](vendors/Starfox.md). They are a very sought after commodity on the server due to the many rare items and cosmetics you are able to buy with them.
 ## Repair Runes
 Repair runes are a form of currency used to repair artifacts by [Annie the Blacksmith](NPCs/Annie the Blacksmith.md).
 ## Class Upgrade Runes
