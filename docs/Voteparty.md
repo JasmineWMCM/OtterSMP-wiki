@@ -1,0 +1,3 @@
+A vote party, also known as llama, is an event that happens at spawn once the server reaches 75 votes.
+## About Vote Parties
+Vote parties are events that happen when the server reaches 75 votes. After 75 votes are reached, a message is displayed in chat telling players to go to [/warp llama](Warps.md). Once there, players can smack a llama for loot. Rewards range from wood and lower-end tools to enchants and diamonds. The more players that are on the server, the more hits the llama has before it pops, and the counter is reset. 

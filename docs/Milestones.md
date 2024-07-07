@@ -1,0 +1,9 @@
+Milestones are rewards that players can earn after completing different tasks within the game. To be able to get to the Milestone achievements the player will go into the in-game chat and type /milestones. From there, there will be different tabs with different achievements in which the players can collect rewards. If the player hovers over the milestone rewards, there will be a progress bar to show the percentage the player has left until the next reward.
+## Playtime
+
+When playing on the server, the longer the player is on, the more rewards they can earn. Once in the /milestone tab, the player will be able to see 12 milestones that will be available to claim depending on the length of time. Each milestone will have different rewards such as in-game money, claim blocks, star shards, crate keys, bundles, decorations, and even cosmetics.
+## Mining
+
+The Mining milestone is where, the more a player breaks blocks underground like stone, minerals, sculk, etc. the more milestones the players can unlock to receive rewards. Once in the /milestones tab and then click on the little pickaxe, the player will be able to see 15 milestones that will be available to claim depending on the amount of blocks broken. Each milestone will have different rewards such as in-game money, claim blocks, star shards, crate keys, bundles, decorations, and even cosmetics.
+## Farming
+The farming milestone is where, the more a player breaks crops like weat carrots, potatoes, etc. the more milestones the player can unlock to receive rewards. Once in the /milestones tab and click on the little carrot, the player will be able to see 15 milestones that will be available to claim depending on the amount of crops the player has broken. Each milestone will have different rewards such as in-game money, claim blocks, star shards, crate keys, bundles, decorations, and even cosmetics. 

@@ -6,6 +6,7 @@ theme:
     primary: custom
     accent: custom
   logo: assets/otter_1240x.png
+  favicon: assets/otter_1240x.png
   features:
     - navigation.sections
     - navigation.path
@@ -18,6 +19,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
 
 extra:
   generator: false
@@ -33,9 +35,30 @@ copyright: Copyright &copy; 2024 OtterSMP
 nav:
   - Home:
     - Home: index.md
+    - Currency: Currency.md
+    - Dungeons: Dungeons.md
+    - Milestones: Milestones.md
+    - Ranks: Ranks.md
+    - Cosmetics: Cosmetics.md
+    - Campaign: Campaign.md 
+    - Commanders: Commanders.md
+    - Races: Races.md
+    - Crates: Crates.md
+    - Stalls: Stalls.md
+    - Voteparty: Voteparty.md
+    - Warps: Warps.md
   - Items:
-    - Star Shards: Items/star_shards.md
-    - Currency: Items/currency.md
+    - Star Shards: items/star_shards.md
   - NPC's:
-    - Jazmine: NPCs/Jazmine.md
     - Annie the Blacksmith: NPCs/Annie the Blacksmith.md
+    - Asuna: NPCs/Asuna.md
+    - Jazmine: NPCs/Jazmine.md
+    - Angel: NPCs/Angel.md
+    - Taylor: NPCs/Taylor.md
+    - Sarah: NPCs/Sarah.md
+    - Joshua: NPCs/Joshua.md
+    - Abby: NPCs/Abby.md
+  - Vendors:
+    - Vendors: vendors/Vendors.md
+    - Starfox: vendors/Starfox.md
+    - Jess: vendors/Jess.md
