@@ -22,7 +22,7 @@ The server has a very vast history and many things to explore, and all (hopefull
 ### How to join OtterSMP:
 #### Java Edition
 
-1. Boot up Minecraft "1.20x" or higher
+1. Boot up Minecraft "1.21.11" or higher
 
 2. Click on "Multiplayer"
 
@@ -42,7 +42,7 @@ Congratulations! You're done! We can't wait to see you there!
 
 3. Click on "Add Friends" tab
 
-4. Type "PlayOtterSMP" for the gamertag
+4. Type "OtterSMP" for the gamertag
 
 5. Click and Join OtterSMP!
 
